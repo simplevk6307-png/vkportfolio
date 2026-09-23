@@ -8,6 +8,7 @@ const Home = () => {
         <Header/>
         <div className='home'>
             <section className="home-section" id="home">
+
                 <div className="home-container container">
                     <div className="home-content">
                         <p className="greeting">Hello, I'm</p>
@@ -24,6 +25,15 @@ const Home = () => {
                             <img className="profile-image" src="https://tse1.mm.bing.net/th/id/OIP.mgtrKdfggwGjuFWH6W1X_wHaJ4?r=0&amp;rs=1&amp;pid=ImgDetMain&amp;o=7&amp;rm=3"alt="Vanshika kashyap- Web Developer , Video editor">
                             </img>
                         </div>
+
+
+
+
+
+
+
+                        
+
                     </div>
                 </div>
             </section>
