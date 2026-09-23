@@ -1,0 +1,15 @@
+.header{
+    background-color: black;
+}
+.logo{
+    color: white;
+}
+
+.nav-link{
+    color: aliceblue;
+}
+.nav-link active{
+    color: aliceblue;
+}
+
+

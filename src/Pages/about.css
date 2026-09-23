@@ -1,0 +1,23 @@
+.about-card{
+   background: linear-gradient(145deg, #171d35, #232b4c);
+    color: aliceblue
+
+}
+.about-card p{
+    color: rgba(248, 251, 253, 0.614);
+}
+.about{
+    background-color: rgb(220, 220, 241);
+}
+
+.about-section{
+    padding: 100px;
+    
+    background-color: rgb(244, 244, 255);
+}
+.details-card{
+    background-color: aliceblue;
+}
+.detail-box{
+    background-color: #fbf4f4;
+}
